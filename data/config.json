@@ -5,8 +5,8 @@
   "totalLives": 30,
   "region": "Kanto",
   "repo": {
-    "owner": "TU-USUARIO",
-    "name": "mi-randomlocke",
+    "owner": "Nata",
+    "name": "TalaveraLocke",
     "branch": "main"
   },
   "_ayuda": "Plantilla lista para tu grupo. Opcional: cambia el title. NO anadas jugadores a mano: cada uno se registra solo al sincronizar con AnilSync. Guia: guia.html",
