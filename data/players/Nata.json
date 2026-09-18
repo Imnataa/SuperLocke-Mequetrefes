@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 8,
   "champion": false,
-  "notes": "Importado del save · 0h 21m jugadas · 54,620₽ · vidas en el juego: ?",
+  "notes": "Importado del save · 0h 25m jugadas · 54,620₽ · vidas en el juego: ?",
   "team": [
     {
       "nickname": "Garchomp",
@@ -14,21 +14,21 @@
         "Dragón",
         "Tierra"
       ],
-      "ability": "Telepatía",
+      "ability": "Sebo",
       "nature": "Alegre",
       "item": "Garchompitez",
       "shiny": true,
       "moves": [
         "Púas",
         "Poltergeist",
-        "Atrapabicho",
+        "Vasto Impacto",
         "Golpe Calor"
       ],
       "iv": [
         25,
         29,
         28,
-        25,
+        13,
         28,
         29
       ],
@@ -158,7 +158,7 @@
       ],
       "ability": "Superguarda",
       "nature": "Firme",
-      "item": "Tabla Pradal",
+      "item": "Casco Dentado",
       "shiny": false,
       "moves": [
         "Ponzochoque",
@@ -294,170 +294,6 @@
         "Danza Dragón",
         "Tajo Acuático",
         "Polvo Explosivo"
-      ]
-    },
-    {
-      "nickname": "Frosmoth",
-      "species": "Frosmoth",
-      "level": 49,
-      "types": [
-        "Hielo",
-        "Bicho"
-      ],
-      "ability": "Poder Fúngico",
-      "nature": "Grosera",
-      "item": "Casco Dentado",
-      "shiny": false,
-      "moves": [
-        "Mundo Gélido",
-        "Agua Fría",
-        "Fiebre Dorada",
-        "Cura Selvática"
-      ],
-      "origin": "don_prodigio",
-      "iv": [
-        25,
-        29,
-        1,
-        22,
-        30,
-        3
-      ],
-      "ev": [
-        39,
-        242,
-        42,
-        113,
-        34,
-        40
-      ],
-      "abilPool": [
-        "Silvano",
-        "Poder Fúngico"
-      ],
-      "abilHidden": [
-        "Remoto"
-      ],
-      "learnset": [
-        {
-          "lvl": -1,
-          "m": "Pulso Cura"
-        },
-        {
-          "lvl": 1,
-          "m": "Corte Furia"
-        },
-        {
-          "lvl": 1,
-          "m": "Obstrucción"
-        },
-        {
-          "lvl": 1,
-          "m": "Luminicola"
-        },
-        {
-          "lvl": 1,
-          "m": "Mundo Gélido"
-        },
-        {
-          "lvl": 4,
-          "m": "Deslizamiento"
-        },
-        {
-          "lvl": 8,
-          "m": "Estrujón"
-        },
-        {
-          "lvl": 8,
-          "m": "Fría Acogida"
-        },
-        {
-          "lvl": 12,
-          "m": "Deseo Cura"
-        },
-        {
-          "lvl": 16,
-          "m": "A Defender"
-        },
-        {
-          "lvl": 21,
-          "m": "Desarme"
-        },
-        {
-          "lvl": 24,
-          "m": "Bola Hielo"
-        },
-        {
-          "lvl": 28,
-          "m": "Bofetón Lodo"
-        },
-        {
-          "lvl": 28,
-          "m": "Impresionar"
-        },
-        {
-          "lvl": 32,
-          "m": "Machada"
-        },
-        {
-          "lvl": 36,
-          "m": "Psicocolmillo"
-        },
-        {
-          "lvl": 36,
-          "m": "Cura Selvática"
-        },
-        {
-          "lvl": 40,
-          "m": "Bomba Ácida"
-        },
-        {
-          "lvl": 44,
-          "m": "Castigo"
-        },
-        {
-          "lvl": 48,
-          "m": "Fiebre Dorada"
-        },
-        {
-          "lvl": 52,
-          "m": "Día Soleado"
-        }
-      ],
-      "tmMoves": [
-        "Agua Fría",
-        "Aligerar",
-        "Alquitranazo",
-        "Avivar",
-        "Bloqueo",
-        "Campo Psíquico",
-        "Clavo Cañón",
-        "Corte Furia",
-        "Doble Ataque",
-        "Eco Metálico",
-        "Electropico",
-        "Estruendo Escama",
-        "Garra Umbría",
-        "Homenaje Póstumo",
-        "Huesomerang",
-        "Martillo Hielo",
-        "Patada Tropical",
-        "Placaje",
-        "Plancha Corporal",
-        "Ponzochoque",
-        "Prensa Metálica",
-        "Profecía",
-        "Sísmico",
-        "Sumisión",
-        "Telequinesis",
-        "Triple Inmersión",
-        "Viraje"
-      ],
-      "firstMoves": [
-        "Impresionar",
-        "Machada",
-        "Psicocolmillo",
-        "Cura Selvática"
       ]
     },
     {
@@ -927,6 +763,170 @@
         "Gruñido",
         "Danza Lluvia",
         "Estímulo"
+      ]
+    },
+    {
+      "nickname": "Frosmoth",
+      "species": "Frosmoth",
+      "level": 49,
+      "types": [
+        "Hielo",
+        "Bicho"
+      ],
+      "ability": "Poder Fúngico",
+      "nature": "Grosera",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Mundo Gélido",
+        "Agua Fría",
+        "Fiebre Dorada",
+        "Cura Selvática"
+      ],
+      "origin": "don_prodigio",
+      "iv": [
+        25,
+        29,
+        1,
+        22,
+        30,
+        3
+      ],
+      "ev": [
+        39,
+        242,
+        42,
+        113,
+        34,
+        40
+      ],
+      "abilPool": [
+        "Silvano",
+        "Poder Fúngico"
+      ],
+      "abilHidden": [
+        "Remoto"
+      ],
+      "learnset": [
+        {
+          "lvl": -1,
+          "m": "Pulso Cura"
+        },
+        {
+          "lvl": 1,
+          "m": "Corte Furia"
+        },
+        {
+          "lvl": 1,
+          "m": "Obstrucción"
+        },
+        {
+          "lvl": 1,
+          "m": "Luminicola"
+        },
+        {
+          "lvl": 1,
+          "m": "Mundo Gélido"
+        },
+        {
+          "lvl": 4,
+          "m": "Deslizamiento"
+        },
+        {
+          "lvl": 8,
+          "m": "Estrujón"
+        },
+        {
+          "lvl": 8,
+          "m": "Fría Acogida"
+        },
+        {
+          "lvl": 12,
+          "m": "Deseo Cura"
+        },
+        {
+          "lvl": 16,
+          "m": "A Defender"
+        },
+        {
+          "lvl": 21,
+          "m": "Desarme"
+        },
+        {
+          "lvl": 24,
+          "m": "Bola Hielo"
+        },
+        {
+          "lvl": 28,
+          "m": "Bofetón Lodo"
+        },
+        {
+          "lvl": 28,
+          "m": "Impresionar"
+        },
+        {
+          "lvl": 32,
+          "m": "Machada"
+        },
+        {
+          "lvl": 36,
+          "m": "Psicocolmillo"
+        },
+        {
+          "lvl": 36,
+          "m": "Cura Selvática"
+        },
+        {
+          "lvl": 40,
+          "m": "Bomba Ácida"
+        },
+        {
+          "lvl": 44,
+          "m": "Castigo"
+        },
+        {
+          "lvl": 48,
+          "m": "Fiebre Dorada"
+        },
+        {
+          "lvl": 52,
+          "m": "Día Soleado"
+        }
+      ],
+      "tmMoves": [
+        "Agua Fría",
+        "Aligerar",
+        "Alquitranazo",
+        "Avivar",
+        "Bloqueo",
+        "Campo Psíquico",
+        "Clavo Cañón",
+        "Corte Furia",
+        "Doble Ataque",
+        "Eco Metálico",
+        "Electropico",
+        "Estruendo Escama",
+        "Garra Umbría",
+        "Homenaje Póstumo",
+        "Huesomerang",
+        "Martillo Hielo",
+        "Patada Tropical",
+        "Placaje",
+        "Plancha Corporal",
+        "Ponzochoque",
+        "Prensa Metálica",
+        "Profecía",
+        "Sísmico",
+        "Sumisión",
+        "Telequinesis",
+        "Triple Inmersión",
+        "Viraje"
+      ],
+      "firstMoves": [
+        "Impresionar",
+        "Machada",
+        "Psicocolmillo",
+        "Cura Selvática"
       ]
     }
   ],
@@ -4910,17 +4910,6 @@
     {
       "route": "",
       "where": "",
-      "species": "Frosmoth",
-      "nickname": "",
-      "shiny": false,
-      "status": "captured",
-      "category": "intercambio",
-      "level": 39,
-      "mon": "Frosmoth"
-    },
-    {
-      "route": "",
-      "where": "",
       "species": "Dragonair",
       "nickname": "",
       "shiny": false,
@@ -4950,6 +4939,17 @@
       "category": "estatico_regalo",
       "level": 3,
       "mon": "Altaria"
+    },
+    {
+      "route": "",
+      "where": "",
+      "species": "Frosmoth",
+      "nickname": "",
+      "shiny": false,
+      "status": "captured",
+      "category": "intercambio",
+      "level": 39,
+      "mon": "Frosmoth"
     },
     {
       "route": "",
@@ -5998,6 +5998,12 @@
       {
         "id": "MACHOBRACE",
         "name": "Brazal Firme",
+        "qty": 1,
+        "pocket": "Objetos"
+      },
+      {
+        "id": "MEADOWPLATE",
+        "name": "Tabla Pradal",
         "qty": 1,
         "pocket": "Objetos"
       },
