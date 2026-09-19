@@ -4,7 +4,7 @@
   "lives": 30,
   "livesUsed": 9,
   "champion": false,
-  "notes": "Importado del save · 0h 57m jugadas · 62,920₽ · vidas en el juego: ?",
+  "notes": "Importado del save · 0h 59m jugadas · 62,920₽ · vidas en el juego: ?",
   "team": [
     {
       "nickname": "Garchomp",
@@ -294,6 +294,126 @@
         "Danza Dragón",
         "Tajo Acuático",
         "Polvo Explosivo"
+      ]
+    },
+    {
+      "nickname": "Zarude",
+      "species": "Zarude",
+      "level": 39,
+      "types": [
+        "Siniestro",
+        "Planta"
+      ],
+      "ability": "Polvo Escudo",
+      "nature": "Huraña",
+      "item": "",
+      "shiny": false,
+      "moves": [
+        "Somnífero",
+        "Shuriken de Agua",
+        "Amago",
+        "Pantalla de Humo"
+      ],
+      "origin": "primer_ruta",
+      "iv": [
+        22,
+        28,
+        17,
+        25,
+        9,
+        20
+      ],
+      "ev": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "abilPool": [
+        "Polvo Escudo"
+      ],
+      "abilHidden": [],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Rizo Algodón"
+        },
+        {
+          "lvl": 1,
+          "m": "Llama Protectora"
+        },
+        {
+          "lvl": 6,
+          "m": "Canto Ardiente"
+        },
+        {
+          "lvl": 12,
+          "m": "Cascabel Cura"
+        },
+        {
+          "lvl": 18,
+          "m": "Somnífero"
+        },
+        {
+          "lvl": 24,
+          "m": "Shuriken de Agua"
+        },
+        {
+          "lvl": 30,
+          "m": "Amago"
+        },
+        {
+          "lvl": 36,
+          "m": "Pantalla de Humo"
+        },
+        {
+          "lvl": 42,
+          "m": "Danza Lunar"
+        },
+        {
+          "lvl": 48,
+          "m": "Golpes Furia"
+        },
+        {
+          "lvl": 54,
+          "m": "Niebla Clara"
+        },
+        {
+          "lvl": 60,
+          "m": "Brecha Negra"
+        },
+        {
+          "lvl": 66,
+          "m": "Al Ataque"
+        },
+        {
+          "lvl": 72,
+          "m": "Hoja Mágica"
+        },
+        {
+          "lvl": 78,
+          "m": "Nitrocarga"
+        },
+        {
+          "lvl": 84,
+          "m": "Hiperrayo"
+        },
+        {
+          "lvl": 90,
+          "m": "Robasombra"
+        },
+        {
+          "lvl": 90,
+          "m": "Confusión"
+        }
+      ],
+      "firstMoves": [
+        "Somnífero",
+        "Shuriken de Agua",
+        "Amago",
+        "Pantalla de Humo"
       ]
     },
     {
@@ -1627,115 +1747,160 @@
       ]
     },
     {
-      "nickname": "Nidorina",
-      "species": "Nidorina",
-      "level": 33,
+      "nickname": "Walrein",
+      "species": "Walrein",
+      "level": 49,
       "types": [
-        "Veneno"
+        "Hielo",
+        "Agua"
       ],
-      "ability": "Insonorizar",
-      "nature": "Afable",
+      "ability": "Teracaparazón",
+      "nature": "Ingenua",
       "item": "",
-      "shiny": true,
+      "shiny": false,
       "moves": [
-        "Finta",
-        "Cambiapoder",
-        "Meteoros",
-        "Danza Caos"
+        "Doble Patada",
+        "Escalofrío",
+        "Fuerza Equina",
+        "Gigadrenado"
       ],
+      "origin": "primer_ruta",
       "iv": [
-        5,
-        18,
-        3,
-        6,
-        3,
-        21
+        15,
+        16,
+        11,
+        29,
+        14,
+        6
       ],
       "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        59,
+        94,
+        56,
+        83,
+        54,
+        62
       ],
       "abilPool": [
-        "Insonorizar",
-        "Pelaje Recio"
+        "Teracaparazón",
+        "Aura Oscura"
       ],
       "abilHidden": [
-        "Cálculo Final"
+        "Manto Níveo"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Poder Reserva"
+          "m": "Pistola Agua"
         },
         {
           "lvl": 1,
-          "m": "Picotazo Veneno"
+          "m": "Residuos"
         },
         {
           "lvl": 1,
-          "m": "Pesadilla"
+          "m": "Kinético"
         },
         {
           "lvl": 1,
-          "m": "Estoicismo"
+          "m": "Condena Silvana"
         },
         {
-          "lvl": 15,
-          "m": "Finta"
+          "lvl": 1,
+          "m": "Amnesia"
+        },
+        {
+          "lvl": 1,
+          "m": "Agua Fría"
+        },
+        {
+          "lvl": 1,
+          "m": "Destructor"
+        },
+        {
+          "lvl": 12,
+          "m": "Vaho Gélido"
+        },
+        {
+          "lvl": 13,
+          "m": "Pin Misil"
         },
         {
           "lvl": 16,
-          "m": "Cambiapoder"
+          "m": "Hidropulso"
         },
         {
-          "lvl": 22,
-          "m": "Meteoros"
+          "lvl": 20,
+          "m": "Viento Hielo"
         },
         {
-          "lvl": 29,
-          "m": "Danza Caos"
+          "lvl": 24,
+          "m": "Deseo"
         },
         {
-          "lvl": 36,
-          "m": "Agitacola"
+          "lvl": 28,
+          "m": "Fotosíntesis"
         },
         {
-          "lvl": 43,
-          "m": "Polución"
+          "lvl": 35,
+          "m": "Puya Nociva"
+        },
+        {
+          "lvl": 40,
+          "m": "Pugnachoque"
+        },
+        {
+          "lvl": 48,
+          "m": "Atrapabicho"
         },
         {
           "lvl": 50,
-          "m": "Extracto Picante"
+          "m": "Vasta Guardia"
         },
         {
-          "lvl": 50,
-          "m": "Resarcimiento"
-        },
-        {
-          "lvl": 57,
-          "m": "Rayo Meteórico"
+          "lvl": 56,
+          "m": "Auxilio"
         },
         {
           "lvl": 64,
-          "m": "Búnker"
+          "m": "Purificación"
         },
         {
-          "lvl": 71,
-          "m": "Camaradería"
+          "lvl": 72,
+          "m": "Tambor"
         }
       ],
       "tmMoves": [
-        "Retracción"
+        "Agua Fría",
+        "Arenas Ardientes",
+        "Beso Drenaje",
+        "Calamidad",
+        "Calcinación",
+        "Clavo Cañón",
+        "Corte Furia",
+        "Doble Ataque",
+        "Doble Bofetón",
+        "Esfuerzo",
+        "Esquirla Helada",
+        "Lanzarrocas",
+        "Martillo Hielo",
+        "Niebla Clara",
+        "Paso Dimensional",
+        "Patada Relámpago",
+        "Plancha Corporal",
+        "Ponzochoque",
+        "Rayo Confuso",
+        "Residuos",
+        "Restricción",
+        "Salpicar",
+        "Sísmico",
+        "Último Lugar"
       ],
       "firstMoves": [
-        "Finta",
-        "Cambiapoder",
-        "Meteoros",
-        "Danza Caos"
+        "Ataque Rápido",
+        "Escalofrío",
+        "Giro Bola",
+        "Zona Extraña"
       ]
     },
     {
@@ -3300,283 +3465,6 @@
       ]
     },
     {
-      "nickname": "Walrein",
-      "species": "Walrein",
-      "level": 49,
-      "types": [
-        "Hielo",
-        "Agua"
-      ],
-      "ability": "Teracaparazón",
-      "nature": "Ingenua",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Doble Patada",
-        "Escalofrío",
-        "Fuerza Equina",
-        "Gigadrenado"
-      ],
-      "origin": "primer_ruta",
-      "iv": [
-        15,
-        16,
-        11,
-        29,
-        14,
-        6
-      ],
-      "ev": [
-        59,
-        94,
-        56,
-        83,
-        54,
-        62
-      ],
-      "abilPool": [
-        "Teracaparazón",
-        "Aura Oscura"
-      ],
-      "abilHidden": [
-        "Manto Níveo"
-      ],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Pistola Agua"
-        },
-        {
-          "lvl": 1,
-          "m": "Residuos"
-        },
-        {
-          "lvl": 1,
-          "m": "Kinético"
-        },
-        {
-          "lvl": 1,
-          "m": "Condena Silvana"
-        },
-        {
-          "lvl": 1,
-          "m": "Amnesia"
-        },
-        {
-          "lvl": 1,
-          "m": "Agua Fría"
-        },
-        {
-          "lvl": 1,
-          "m": "Destructor"
-        },
-        {
-          "lvl": 12,
-          "m": "Vaho Gélido"
-        },
-        {
-          "lvl": 13,
-          "m": "Pin Misil"
-        },
-        {
-          "lvl": 16,
-          "m": "Hidropulso"
-        },
-        {
-          "lvl": 20,
-          "m": "Viento Hielo"
-        },
-        {
-          "lvl": 24,
-          "m": "Deseo"
-        },
-        {
-          "lvl": 28,
-          "m": "Fotosíntesis"
-        },
-        {
-          "lvl": 35,
-          "m": "Puya Nociva"
-        },
-        {
-          "lvl": 40,
-          "m": "Pugnachoque"
-        },
-        {
-          "lvl": 48,
-          "m": "Atrapabicho"
-        },
-        {
-          "lvl": 50,
-          "m": "Vasta Guardia"
-        },
-        {
-          "lvl": 56,
-          "m": "Auxilio"
-        },
-        {
-          "lvl": 64,
-          "m": "Purificación"
-        },
-        {
-          "lvl": 72,
-          "m": "Tambor"
-        }
-      ],
-      "tmMoves": [
-        "Agua Fría",
-        "Arenas Ardientes",
-        "Beso Drenaje",
-        "Calamidad",
-        "Calcinación",
-        "Clavo Cañón",
-        "Corte Furia",
-        "Doble Ataque",
-        "Doble Bofetón",
-        "Esfuerzo",
-        "Esquirla Helada",
-        "Lanzarrocas",
-        "Martillo Hielo",
-        "Niebla Clara",
-        "Paso Dimensional",
-        "Patada Relámpago",
-        "Plancha Corporal",
-        "Ponzochoque",
-        "Rayo Confuso",
-        "Residuos",
-        "Restricción",
-        "Salpicar",
-        "Sísmico",
-        "Último Lugar"
-      ],
-      "firstMoves": [
-        "Ataque Rápido",
-        "Escalofrío",
-        "Giro Bola",
-        "Zona Extraña"
-      ]
-    },
-    {
-      "nickname": "Zarude",
-      "species": "Zarude",
-      "level": 39,
-      "types": [
-        "Siniestro",
-        "Planta"
-      ],
-      "ability": "Polvo Escudo",
-      "nature": "Huraña",
-      "item": "",
-      "shiny": false,
-      "moves": [
-        "Somnífero",
-        "Shuriken de Agua",
-        "Amago",
-        "Pantalla de Humo"
-      ],
-      "origin": "primer_ruta",
-      "iv": [
-        22,
-        28,
-        17,
-        25,
-        9,
-        20
-      ],
-      "ev": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "abilPool": [
-        "Polvo Escudo"
-      ],
-      "abilHidden": [],
-      "learnset": [
-        {
-          "lvl": 1,
-          "m": "Rizo Algodón"
-        },
-        {
-          "lvl": 1,
-          "m": "Llama Protectora"
-        },
-        {
-          "lvl": 6,
-          "m": "Canto Ardiente"
-        },
-        {
-          "lvl": 12,
-          "m": "Cascabel Cura"
-        },
-        {
-          "lvl": 18,
-          "m": "Somnífero"
-        },
-        {
-          "lvl": 24,
-          "m": "Shuriken de Agua"
-        },
-        {
-          "lvl": 30,
-          "m": "Amago"
-        },
-        {
-          "lvl": 36,
-          "m": "Pantalla de Humo"
-        },
-        {
-          "lvl": 42,
-          "m": "Danza Lunar"
-        },
-        {
-          "lvl": 48,
-          "m": "Golpes Furia"
-        },
-        {
-          "lvl": 54,
-          "m": "Niebla Clara"
-        },
-        {
-          "lvl": 60,
-          "m": "Brecha Negra"
-        },
-        {
-          "lvl": 66,
-          "m": "Al Ataque"
-        },
-        {
-          "lvl": 72,
-          "m": "Hoja Mágica"
-        },
-        {
-          "lvl": 78,
-          "m": "Nitrocarga"
-        },
-        {
-          "lvl": 84,
-          "m": "Hiperrayo"
-        },
-        {
-          "lvl": 90,
-          "m": "Robasombra"
-        },
-        {
-          "lvl": 90,
-          "m": "Confusión"
-        }
-      ],
-      "firstMoves": [
-        "Somnífero",
-        "Shuriken de Agua",
-        "Amago",
-        "Pantalla de Humo"
-      ]
-    },
-    {
       "nickname": "Heliolisk",
       "species": "Heliolisk",
       "level": 5,
@@ -3864,150 +3752,121 @@
         "Hoja Mágica",
         "Mil Púas Tóxicas"
       ]
-    }
-  ],
-  "graveyard": [
+    },
     {
-      "nickname": "Dragonair",
-      "species": "Dragonair",
-      "level": 49,
+      "nickname": "Nidorina",
+      "species": "Nidorina",
+      "level": 33,
       "types": [
-        "Dragón"
+        "Veneno"
       ],
-      "ability": "Pelaje Recio",
-      "nature": "Activa",
-      "item": "Metrónomo",
-      "shiny": false,
+      "ability": "Insonorizar",
+      "nature": "Afable",
+      "item": "",
+      "shiny": true,
       "moves": [
-        "Vasto Impacto",
-        "Puño Mareo",
-        "Calcinación",
-        "Danza Espada"
+        "Finta",
+        "Cambiapoder",
+        "Meteoros",
+        "Danza Caos"
       ],
-      "origin": "primer_ruta",
       "iv": [
+        5,
+        18,
+        3,
         6,
-        24,
-        2,
-        27,
-        20,
-        22
+        3,
+        21
       ],
       "ev": [
-        72,
-        136,
-        69,
-        104,
-        61,
-        68
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "abilPool": [
-        "Puño Invisible"
+        "Insonorizar",
+        "Pelaje Recio"
       ],
       "abilHidden": [
-        "Pelaje Recio"
+        "Cálculo Final"
       ],
       "learnset": [
         {
           "lvl": 1,
-          "m": "Empapar"
+          "m": "Poder Reserva"
         },
         {
           "lvl": 1,
-          "m": "Conversión2"
+          "m": "Picotazo Veneno"
         },
         {
           "lvl": 1,
-          "m": "Doble Bofetón"
+          "m": "Pesadilla"
         },
         {
           "lvl": 1,
-          "m": "Vasto Impacto"
+          "m": "Estoicismo"
         },
         {
           "lvl": 15,
-          "m": "Absorber"
+          "m": "Finta"
         },
         {
-          "lvl": 15,
-          "m": "Ciclón"
+          "lvl": 16,
+          "m": "Cambiapoder"
         },
         {
-          "lvl": 20,
-          "m": "Estruendo Escama"
+          "lvl": 22,
+          "m": "Meteoros"
         },
         {
-          "lvl": 25,
-          "m": "Danza Espada"
+          "lvl": 29,
+          "m": "Danza Caos"
         },
         {
-          "lvl": 33,
-          "m": "Pulso Dragón"
+          "lvl": 36,
+          "m": "Agitacola"
         },
         {
-          "lvl": 39,
-          "m": "Arenas Ardientes"
+          "lvl": 43,
+          "m": "Polución"
         },
         {
-          "lvl": 46,
-          "m": "Puño Mareo"
+          "lvl": 50,
+          "m": "Extracto Picante"
         },
         {
-          "lvl": 53,
-          "m": "Joya de Luz"
+          "lvl": 50,
+          "m": "Resarcimiento"
         },
         {
-          "lvl": 60,
-          "m": "Rayo"
+          "lvl": 57,
+          "m": "Rayo Meteórico"
         },
         {
-          "lvl": 67,
-          "m": "Rabia"
+          "lvl": 64,
+          "m": "Búnker"
         },
         {
-          "lvl": 74,
-          "m": "Escaramuza"
+          "lvl": 71,
+          "m": "Camaradería"
         }
       ],
       "tmMoves": [
-        "Agua Fría",
-        "Alquitranazo",
-        "Anillo Ígneo",
-        "Arenas Ardientes",
-        "Beso Drenaje",
-        "Bloqueo",
-        "Calcinación",
-        "Castigo",
-        "Clavo Cañón",
-        "Conjuro",
-        "Cornada",
-        "Doble Ataque",
-        "Doble Bofetón",
-        "Electropico",
-        "Estruendo Escama",
-        "Homenaje Póstumo",
-        "Látigo Ígneo",
-        "Placaje",
-        "Plancha Corporal",
-        "Ráfaga Escamas",
-        "Rayo Confuso",
-        "Restricción",
-        "Retracción",
-        "Salpicar",
-        "Sumisión",
-        "Trueno",
-        "Velo Aurora"
+        "Retracción"
       ],
       "firstMoves": [
-        "Vasto Impacto",
-        "Absorber",
-        "Ciclón",
-        "Estruendo Escama"
-      ],
-      "cause": "",
-      "route": "",
-      "date": ""
-    },
+        "Finta",
+        "Cambiapoder",
+        "Meteoros",
+        "Danza Caos"
+      ]
+    }
+  ],
+  "graveyard": [
     {
       "nickname": "Lampent",
       "species": "Lampent",
@@ -5008,6 +4867,147 @@
       "cause": "",
       "route": "",
       "date": ""
+    },
+    {
+      "nickname": "Dragonair",
+      "species": "Dragonair",
+      "level": 49,
+      "types": [
+        "Dragón"
+      ],
+      "ability": "Pelaje Recio",
+      "nature": "Activa",
+      "item": "Metrónomo",
+      "shiny": false,
+      "moves": [
+        "Vasto Impacto",
+        "Puño Mareo",
+        "Calcinación",
+        "Danza Espada"
+      ],
+      "origin": "primer_ruta",
+      "iv": [
+        6,
+        24,
+        2,
+        27,
+        20,
+        22
+      ],
+      "ev": [
+        72,
+        136,
+        69,
+        104,
+        61,
+        68
+      ],
+      "abilPool": [
+        "Puño Invisible"
+      ],
+      "abilHidden": [
+        "Pelaje Recio"
+      ],
+      "learnset": [
+        {
+          "lvl": 1,
+          "m": "Empapar"
+        },
+        {
+          "lvl": 1,
+          "m": "Conversión2"
+        },
+        {
+          "lvl": 1,
+          "m": "Doble Bofetón"
+        },
+        {
+          "lvl": 1,
+          "m": "Vasto Impacto"
+        },
+        {
+          "lvl": 15,
+          "m": "Absorber"
+        },
+        {
+          "lvl": 15,
+          "m": "Ciclón"
+        },
+        {
+          "lvl": 20,
+          "m": "Estruendo Escama"
+        },
+        {
+          "lvl": 25,
+          "m": "Danza Espada"
+        },
+        {
+          "lvl": 33,
+          "m": "Pulso Dragón"
+        },
+        {
+          "lvl": 39,
+          "m": "Arenas Ardientes"
+        },
+        {
+          "lvl": 46,
+          "m": "Puño Mareo"
+        },
+        {
+          "lvl": 53,
+          "m": "Joya de Luz"
+        },
+        {
+          "lvl": 60,
+          "m": "Rayo"
+        },
+        {
+          "lvl": 67,
+          "m": "Rabia"
+        },
+        {
+          "lvl": 74,
+          "m": "Escaramuza"
+        }
+      ],
+      "tmMoves": [
+        "Agua Fría",
+        "Alquitranazo",
+        "Anillo Ígneo",
+        "Arenas Ardientes",
+        "Beso Drenaje",
+        "Bloqueo",
+        "Calcinación",
+        "Castigo",
+        "Clavo Cañón",
+        "Conjuro",
+        "Cornada",
+        "Doble Ataque",
+        "Doble Bofetón",
+        "Electropico",
+        "Estruendo Escama",
+        "Homenaje Póstumo",
+        "Látigo Ígneo",
+        "Placaje",
+        "Plancha Corporal",
+        "Ráfaga Escamas",
+        "Rayo Confuso",
+        "Restricción",
+        "Retracción",
+        "Salpicar",
+        "Sumisión",
+        "Trueno",
+        "Velo Aurora"
+      ],
+      "firstMoves": [
+        "Vasto Impacto",
+        "Absorber",
+        "Ciclón",
+        "Estruendo Escama"
+      ],
+      "cause": "",
+      "route": "",
+      "date": ""
     }
   ],
   "captures": [
@@ -5036,13 +5036,13 @@
     {
       "route": "",
       "where": "",
-      "species": "Dragonair",
+      "species": "Zarude",
       "nickname": "",
       "shiny": false,
-      "status": "dead",
+      "status": "captured",
       "category": "estatico_regalo",
-      "level": 22,
-      "mon": "Dragonair"
+      "level": 39,
+      "mon": "Zarude"
     },
     {
       "route": "",
@@ -5157,13 +5157,13 @@
     {
       "route": "",
       "where": "",
-      "species": "Nidorina",
+      "species": "Walrein",
       "nickname": "",
-      "shiny": true,
+      "shiny": false,
       "status": "captured",
       "category": "estatico_regalo",
-      "level": 33,
-      "mon": "Nidorina"
+      "level": 30,
+      "mon": "Walrein"
     },
     {
       "route": "",
@@ -5311,28 +5311,6 @@
     {
       "route": "",
       "where": "",
-      "species": "Walrein",
-      "nickname": "",
-      "shiny": false,
-      "status": "captured",
-      "category": "estatico_regalo",
-      "level": 30,
-      "mon": "Walrein"
-    },
-    {
-      "route": "",
-      "where": "",
-      "species": "Zarude",
-      "nickname": "",
-      "shiny": false,
-      "status": "captured",
-      "category": "estatico_regalo",
-      "level": 39,
-      "mon": "Zarude"
-    },
-    {
-      "route": "",
-      "where": "",
       "species": "Heliolisk",
       "nickname": "",
       "shiny": true,
@@ -5351,6 +5329,17 @@
       "category": "estatico_regalo",
       "level": 28,
       "mon": "Mandibuzz"
+    },
+    {
+      "route": "",
+      "where": "",
+      "species": "Nidorina",
+      "nickname": "",
+      "shiny": true,
+      "status": "captured",
+      "category": "estatico_regalo",
+      "level": 33,
+      "mon": "Nidorina"
     },
     {
       "route": "",
@@ -5439,6 +5428,17 @@
       "category": "estatico_regalo",
       "level": 18,
       "mon": "Lickitung"
+    },
+    {
+      "route": "",
+      "where": "",
+      "species": "Dragonair",
+      "nickname": "",
+      "shiny": false,
+      "status": "dead",
+      "category": "estatico_regalo",
+      "level": 22,
+      "mon": "Dragonair"
     }
   ],
   "progress": {
