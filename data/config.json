@@ -16,6 +16,11 @@
       "id": "Nata",
       "name": "Aitor",
       "avatar": "assets/avatars/red.png"
+    },
+    {
+      "id": "Follador",
+      "name": "Agust",
+      "avatar": "assets/avatars/blue.png"
     }
   ],
   "_avatarsDisponibles": [
